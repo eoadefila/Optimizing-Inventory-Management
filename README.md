@@ -48,6 +48,12 @@ After care studying of the Schema, Objects related to the Schema,  data dictiona
 
 ![](Connect_SQL_to_PowerBI_2.PNG)
 
+I wrote some Dax and creating measures and calculated columns to get the right metrics for the Inventory analysis.
+The queries I wrote on SQL are compiled and also uploaded here in this repository.
+![](SQL_query_1.PNG)
+![](SQL_query_2.PNG)
+
+
 
 
 
