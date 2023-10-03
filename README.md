@@ -32,7 +32,7 @@ N.B Kindly note that FitCompany is a ficticious company, Microsoft curated Adven
 
 The data used for this work is obtained from the AdventureWorks 2019 database 2019; of which  I studied the Schema, Objects related to the Schema,  data dictionary and found the right tables for the analysis.
 
-You can find a link to get started with installation and restoration of the database to your local machine https://techcommunity.microsoft.com/t5/educator-developer-blog/data-analysis-challenge-optimizing-inventory-management/ba-p/3719598?WT.mc_id=academic-86959-ooyinbooke.
+You can find a link to get started with installation and restoration of the database to your local machine [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-analysis-challenge-optimizing-inventory-management/ba-p/3719598?WT.mc_id=academic-86959-ooyinbooke).
 
 # Data Transformation
 
