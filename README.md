@@ -25,6 +25,8 @@ N.B Kindly note that FitCompany is a ficticious company, Microsoft curated Adven
 * Measures
 * filters
 * Data Visualization
+* SQL Concepts Like:
+* Alias, Joins,  
 
 # Dataset Source
 
@@ -40,7 +42,8 @@ After care studying of the Schema, Objects related to the Schema,  data dictiona
 
 * I then imported it into PowerBI for analysis
 
-![](SQL_screenshot.PNG)
+![](Connect_SQL_to_PowerBI.PNG)
+
 
 
 
