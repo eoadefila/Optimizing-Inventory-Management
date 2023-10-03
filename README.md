@@ -161,6 +161,25 @@ Inventory Page
 
 Insight and Recommendation Page
 
+Below are the Report
+
+Overview Page
+![](Overview_page.PNG)
+
+Sales Page
+![](Sales_page.PNG)
+
+Inventory Page
+![](Inventory_page.PNG)
+
+Insight and Recommendation Page
+![](Insight_and_recommendation.PNG)
+
+# Insight and Recommendation
+
+
+# Limitation
+The lack of record of date inventory stocks were taken hinder me to predict when the stock will go out of stock.
 
 
 
