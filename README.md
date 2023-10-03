@@ -1,1 +1,1 @@
-# Optimizing-Inventory-Management
+# Optimization-of-Inventory-Management
