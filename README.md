@@ -43,7 +43,9 @@ After care studying of the Schema, Objects related to the Schema,  data dictiona
 * I then imported it into PowerBI for analysis
 
 ![](Connect_SQL_to_PowerBI.PNG)
+
 ![](Connect_SQL_to_PowerBI_1.PNG)
+
 ![](Connect_SQL_to_PowerBI_2.PNG)
 
 
