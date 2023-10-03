@@ -48,8 +48,16 @@ After care studying of the Schema, Objects related to the Schema,  data dictiona
 
 ![](Connect_SQL_to_PowerBI_2.PNG)
 
+# Data Modelling
+
+Automatically derived relationship between the tables were refined to answer the problem statement
+
+Refined Model             |               Automated Model
+:-----|-----:
+![](Final_Data_model.PNG)      |      ![](Initial_Data_model.PNG)
+
 I wrote some Dax and creating measures and calculated columns to get the right metrics for the Inventory analysis.
-The queries I wrote on SQL are compiled and also uploaded here in this repository.
+Some of the tables in the model were queries I wrote on SQL Microsoft Server from the AdventureWork2019 dataset.
 ![](SQL_query_1.PNG)
 ![](SQL_query_2.PNG)
 
