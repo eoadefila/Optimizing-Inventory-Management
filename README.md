@@ -175,9 +175,6 @@ Inventory Page
 Insight and Recommendation Page
 ![](Insight_and_recommendation.PNG)
 
-# Insight and Recommendation
-
-
 # Limitation
 The lack of record of date inventory stocks were taken hinder me to predict when the stock will go out of stock.
 
